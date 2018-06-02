@@ -2,17 +2,17 @@
 
 This is the complete storyline for the Halo series in chronological order. If you see any errors, please submit an issue or fork and I will merge.
 
-## The Beginning
+## Events leading up to Halo Reach
 
-### 100,300 BCE/BC
+### 100,300 BCE
 
 The Forerunners, an ancient race of space-faring scientists, make first contact with a parasitic organism known as the Flood. The Flood-Forerunner war begins.
 
-### 100,000 BCE/BC
+### 100,000 BCE
 
 After 300 years of fighting, the Flood has conquered much of the galaxy. As a last resort, the Forerunners fire the Halo rings, a series of weapons designed to wipe out all sentient life, denying the Flood of its food source. Both the Forerunners and the Flood are annihilated.
 
-### 852 BCE/BC
+### 852 BCE
 
 The Sangheili (Elites) and the San 'Shyuum (Prophets) put an end to years of fighting to form the Covenant. They begin their hunt for Forerunner artifacts, as well as absorbing other species into their massive war machine. These include the Grunts, the Jackals, the Hunters, the Drones and the Brutes.
 
