@@ -2,7 +2,7 @@
 
 This is the complete storyline for the Halo series in chronological order. If you see any errors, please submit an issue or fork and I will merge.
 
-## Events leading up to Halo: Combat Evolved
+## The Beginning
 
 ### 100,300 BCE/BC
 
@@ -71,3 +71,19 @@ The Mjolnir Mk. V armor, complete with reverse-engineered energy shields, is dev
 ### 2552
 
 Commander Jacob Keyes defeats a Covenant fleet orbiting a human colony. However, the Covenant plant a tracking beacon on Keyes' ship and discover the location of Reach.
+
+## Halo: Reach
+
+A squad of SPARTAN-IIIs dubbed "Noble Team" discover Covenant reconnaissance squads on Reach. Sixty percent of the entire UNSC fleet is redirected to Reach in response.
+
+Despite heavy UNSC resistance, the Covenant are able to capture most of Reach within days of arriving.
+
+John-117, now known as the Master Chief, is introduced to Cortana. They are separated when the Master Chief leaves to defend the UNSC Pillar of Autumn, while Cortana stays behind to work with Dr. Halsey.
+
+Dr. Halsey learns of the true nature behind the SPARTAN-IIIs.
+
+Noble Team arrives to save Halsey and are ordered to bring Cortana to a ship-breaking facility and rendezvous with the Pillar of Autumn.
+
+Save for a single SPARTAN-III, Noble Team is killed while transporting and defending the Pillar of Autumn. Cortana successfully makes it aboard and reunites with the Master Chief.
+
+Cortana then provides Captain Keyes with a set of coordinates given to her by Halsey. After jumping to slipspace, the Pillar of Autumn arrives at a massive, ring-shaped facility.
